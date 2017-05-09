@@ -1,0 +1,14 @@
+{
+  "name": "klein-deals-airhorn",
+  "version": "1.0.0",
+  "description": "Alexa Skill for when deals get signed",
+  "main": "index.js",
+  "author": "tklein@solstice.com",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.9.0",
+    "alexa-sdk": "^1.0.9",
+    "aws-sdk": "^2.48.0",
+    "currency-formatter": "^1.2.1"
+  }
+}

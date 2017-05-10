@@ -1,7 +1,5 @@
 'use strict';
 
-exports.slackChannel = '#general';
-
 exports.helpText = 'If this is Danny, nothing I do can help you.';
 exports.helpQuestion = 'Try saying, I made a deal.';
 exports.whoSignedQuestion = 'Great! Who did you sign?';
